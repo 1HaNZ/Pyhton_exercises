@@ -31,7 +31,3 @@ while (True):
             print("Carpim: ",carp(a,b))
         else:
             print("Gecersiz deger...")
-    
-    q = input("Cikis? [e/h] ")
-    if (q == "e" or q == "E"):
-        break
